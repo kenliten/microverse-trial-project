@@ -1,7 +1,10 @@
 #title{
     text-align: center;
 }
-
+#tribute-link
+{
+    text-align: center;
+}
 #img-div{
     display: block;
     margin: 0 auto;
